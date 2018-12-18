@@ -12,7 +12,7 @@ import java.util.stream.Collectors;
  *
  ***********************************{*******************/
 
-public class CommandFactory 
+public class CommandFactory {
 	private final Map<String,Command> commands;
 	
 	private CommandFactory() {
